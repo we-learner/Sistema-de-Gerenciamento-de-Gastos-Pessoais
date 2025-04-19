@@ -11,11 +11,11 @@ Este é um sistema para controlar e organizar seus gastos pessoais de forma simp
 Para visualizar os diagramas, acesse a pasta [`/docs`](./docs) diretamente no repositório.
 
 ## 📅 Etapas do Projeto
-1. Engenharia de Requisitos
-2. Análise e Projeto de Software no XP e Lean Inception
-3. Atividade de OO e UML
-4. Atividade Design Patterns
-5. Modelo Mental de UML e Diagrama de Classes
+1. Engenharia de Requisitos;
+2. Análise e Projeto de Software no XP e Lean Inception;
+3. Atividade de OO e UML;
+4. Atividade Design Patterns;
+5. Modelo Mental de UML e Diagrama de Classes.
 
 ## 🛠 Tecnologias e Ferramentas Utilizadas
 - **Draw.io**: Para a criação dos diagramas de casos de uso, fluxogramas e diagramas de classes.
